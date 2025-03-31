@@ -10,6 +10,7 @@ int main (){
     cout << "Learing the basics of Git commands." << endl;
     cout << "We are now working on github" << endl;
     cout << "THANK YOU!" << endl;
+    cout << "LET'S USE GIT PULL" << endl;
 
     return 0;
 }
