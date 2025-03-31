@@ -11,6 +11,8 @@ int main (){
     cout << "We are now working on github" << endl;
     cout << "THANK YOU!" << endl;
     cout << "LET'S USE GIT PULL" << endl;
+    cout << "Now we are in the reverse way" << endl;
+    cout << "Using git push command" << endl;
 
     return 0;
 }
