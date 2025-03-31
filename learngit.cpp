@@ -8,6 +8,8 @@ int main (){
 
     cout << "Hello Git!" << endl;
     cout << "Learing the basics of Git commands." << endl;
+    cout << "We are now working on github" << endl;
+    cout << "THANK YOU!" << endl;
 
     return 0;
 }
